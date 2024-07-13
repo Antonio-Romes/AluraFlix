@@ -1,0 +1,140 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "titulo": "FRAMEWORK Front-End pra entrar no MERCADO - Roadmap de Programação 2024",
+      "descricao": "FRAMEWORK Front-End pra entrar no MERCADO",
+      "imagem": "https://i.ytimg.com/vi/RQV_2tSly3E/hqdefault.jpg",
+      "link": "https://www.youtube.com/embed/RQV_2tSly3E?si=gn8HKNzfkLJSXJ00",
+      "categoria": "FRONT END"
+    },
+    {
+      " id:": 2,
+      "titulo": "A História do Front-End para Iniciantes em Programação",
+      "descricao": "Explorar um pouco os diversos assuntos que são associados com a tal carreira de Front-End no mundo de desenvolvimento Web.",
+      "imagem": "https://i.ytimg.com/vi/VKmPGmFY7H4/hqdefault.jpg",
+      "link": "https://www.youtube.com/embed/VKmPGmFY7H4?si=jPU_xK6OYlzoMzcJ",
+      "categoria": "FRONT END"
+    },
+    {
+      "id": 3,
+      "titulo": "Programador Front-end Iniciante - APRENDA ISSO!",
+      "descricao": "Neste vídeo, exploraremos um guia completo para quem deseja aprender programação, com ênfase no desenvolvimento front-end para iniciantes. Discutiremos tecnologias fundamentais como HTML, CSS e JavaScript, juntamente com User Experience (UX)",
+      "imagem": "https://i.ytimg.com/vi/fX5WCe3d8WU/hqdefault.jpg",
+      "link": "https://www.youtube.com/embed/fX5WCe3d8WU?si=_nsZEVbK4pqaBztl",
+      "categoria": "FRONT END"
+    },
+    {
+      "id": 4,
+      "titulo": "5 SITES para praticar FRONT-END e alcançar o próximo NÍVEL! ",
+      "descricao": "Muitas pessoas quando pensam em entrar no mercado de tecnologia acabam escolhendo a carreira de desenvolvedor Frontend pelo simples fato de que você consegue ter um retorno visual do que você está fazendo e isso te ajuda muito no começo. ",
+      "imagem": "https://i.ytimg.com/vi/xFtquKPf7Ug/hqdefault.jpg",
+      "link": "https://www.youtube.com/embed/xFtquKPf7Ug?si=b1JKMfr3UMndM9vG",
+      "categoria": "FRONT END"
+    },
+    {
+      "id": 5,
+      "titulo": "O QUE É FRONT-END E BACK-END??? ",
+      "descricao": "Lembrando que tem curso meu por lá de HTML e CSS, além de diversos outros, já que é a maior plataforma de ensino de tecnologia do Brasil! ",
+      "imagem": "https://i.ytimg.com/vi/Em0R3csNMVE/hqdefault.jpg",
+      "link": "https://www.youtube.com/embed/Em0R3csNMVE?si=IJ57eOyHKu26lLNk",
+      "categoria": "FRONT END"
+    },
+    {
+      "id": 6,
+      "titulo": "Sendo VERSÁTIL no Back-End - Roadmap de Programação 2024",
+      "descricao": "Sendo VERSÁTIL no Back-End",
+      "imagem": "https://i.ytimg.com/vi/sgqvzzWTInI/hqdefault.jpg",
+      "link": "https://www.youtube.com/embed/sgqvzzWTInI?si=RW_Yqsi_7h9q6lFl",
+      "categoria": "BACK END"
+    },
+    {
+      "id": 7,
+      "titulo": "Rotina DEV. Saiba o que um desenvolvedor back-end faz no seu dia-a-dia",
+      "descricao": "Você tem dúvidas de como é a rotina de um desenvolvedor back-end? Nesse vídeo te explico como costuma ser nossa rotina no dia-a-dia. Assim você não terá mais dúvidas se gostará da profissão e também tirará de letra nas entrevistas para dev.",
+      "imagem": "https://i.ytimg.com/vi/xiPM_2aWtUc/hqdefault.jpg",
+      "link": "https://www.youtube.com/embed/xiPM_2aWtUc?si=V_1hyB9VOefpXLF2",
+      "categoria": "BACK END"
+    },
+    {
+      "id": 8,
+      "titulo": "O que eu preciso para ser um dev backend em 2024?",
+      "descricao": "Explorar o fascinante universo do desenvolvimento backend, desvendando os requisitos essenciais para quem está começando nesse emocionante campo da programação.",
+      "imagem": "https://i.ytimg.com/vi/qrBDRQ86d9c/hqdefault.jpg",
+      "link": "https://www.youtube.com/embed/qrBDRQ86d9c?si=yKqGwmA110PagCDa",
+      "categoria": "BACK END"
+    },
+    {
+      "id": 9,
+      "titulo": "O que é Next.js, na prática, em 15 minutos!",
+      "descricao": "No vídeo de hoje eu vou lhe explicar o que é o Next.js, para quê ele serve e como utilizá-lo na prática para criar suas aplicações React mais profissionais.",
+      "imagem": "https://i.ytimg.com/vi/QsSUbuYeEFk/hqdefault.jpg",
+      "link": "https://www.youtube.com/embed/QsSUbuYeEFk?si=JqPGLLcMP3_-mOGI",
+      "categoria": "BACK END"
+    },
+    {
+      "id": 10,
+      "titulo": "Gestão e Programação de Sistemas Informáticos",
+      "descricao": "O Técnico de Gestão e Programação de Sistemas Informáticos é o profissional qualificado apto a realizar, de forma autónoma ou integrado numa equipa, atividades de conceção, especificação, projeto, implementação, avaliação, suporte e manutenção de sistemas informáticos e de tecnologias de processamento e transmissão de dados e informações",
+      "imagem": "https://i.ytimg.com/vi/0Cy6ezbkmb4/hqdefault.jpg",
+      "link": "https://www.youtube.com/embed/0Cy6ezbkmb4?si=W4Q8nmuXRmOicUfy",
+      "categoria": "GESTÃO"
+    },
+    {
+      "id": 11,
+      "titulo": "PROGRAMAÇÃO e SISTEMAS de INFORMAÇÃO: o mundo tecnológico",
+      "descricao": "Profissionais da área de informática e tecnologia, como programação e engenharia de redes, projetam computadores, programas e sistemas que influenciam e facilitam muitas de nossas ações do dia a dia, desde apertar um botão para chamar o elevador até pagar uma conta. ",
+      "imagem": "https://i.ytimg.com/vi/ML1fgVfxuRU/hqdefault.jpg",
+      "link": "https://www.youtube.com/embed/ML1fgVfxuRU?si=rIrkXcYCz3oTQl56",
+      "categoria": "GESTÃO"
+    },
+    {
+      "id": 12,
+      "titulo": "Programação: Feira de inovação e tecnologia",
+      "descricao": "A Feira de Inovação e Tecnologia, além de proporcionar oportunidades de negócios, também tem uma extensa programação de palestras.",
+      "imagem": "https://i.ytimg.com/vi/xhUJAyaqzFM/hqdefault.jpg",
+      "link": "https://www.youtube.com/embed/xhUJAyaqzFM?si=0HKXmJaqJA8iVFFE",
+      "categoria": "INOVAÇÃO"
+    },
+    {
+      "id": 13,
+      "titulo": "Criatividade e inovação no trabalho.",
+      "descricao": "Criatividade e inovação no trabalho. Toda Importância para se destacar no mercado.",
+      "imagem": "https://abriminhaempresa.com/wp-content/uploads/2023/10/Criatividade-e-Inovacao-no-Trabalho.jpg",
+      "link": "https://www.youtube.com/embed/6Q94wOEiO84",
+      "categoria": "INOVAÇÃO"
+    },
+    {
+      "id": 14,
+      "titulo": "Gestão de negócios. O que é?",
+      "descricao": "Gestão de negócios. O que é? Veja em 10 pilares obrigatórios na gestão de negócios.",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bc7VDLolorspZCaB74Cjz5fayekyOMf0YA&s",
+      "link": "https://www.youtube.com/embed/roy-pY7pmwM",
+      "categoria": "GESTÃO"
+    },
+    {
+      "id": 15,
+      "titulo": "Steven Johnson: Como nasce a inovação",
+      "descricao": "A inovação não vem em um momento 'eureka'. São mais de 20 anos pesquisando e escrevendo sobre inovações. ",
+      "imagem": "https://i.ytimg.com/vi/2A8qwMaxhfc/hqdefault.jpg",
+      "link": "https://www.youtube.com/embed/2A8qwMaxhfc",
+      "categoria": "INOVAÇÃO"
+    },
+    {
+      "id": 16,
+      "titulo": "Diferentes carreiras em tecnologia",
+      "descricao": "Conheça várias das mais diversas carreiras dentro da área de tecnologia, além de programação, e aproveite também para conhecer a EBAC, que inclusive oferece diversos cursos dessas profissões comentadas no vídeo!",
+      "imagem": "https://i.ytimg.com/vi/3gPZ02Iqr-0/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/3gPZ02Iqr-0?si",
+      "categoria": "GESTÃO"
+    },
+    {
+      "id": "234c",
+      "titulo": "TOP 7 Principais Tendências Tecnológicas Para 2024",
+      "descricao": "Descubra as principais tendências tecnológicas que moldaram o ano de 2024! Prepare-se para a revolução da Inteligência Artificial (IA), impulsionando a automação e a tomada de decisões inteligentes em diversos setores",
+      "imagem": " https://i.ytimg.com/vi/ZsZ-3ZZMr0w/hqdefault.jpg",
+      "link": "https://www.youtube.com/embed/ZsZ-3ZZMr0w?si=x6srap06__HQXEjh",
+      "categoria": "INOVAÇÃO"
+    }
+  ]
+}

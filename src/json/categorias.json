@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1000,
+        "nome": "FRONT END",
+        "cor": "#6BD1FF",
+        "corSegundaria": "rgba(107, 209, 255,.2)"
+
+    },
+    {
+        "id": 2000,
+        "nome": "BACK END",
+        "cor": "#00C86F",
+        "corSegundaria": "rgba(0, 200, 111),.2)"
+    },
+    {
+        "id": 3000,
+        "nome": "INOVAÇÃO",
+        "cor": "#FFBA05",
+        "corSegundaria": "rgba(255, 186, 5,.2)"
+
+    },
+    {
+        "id": 4000,
+        "nome": "GESTÃO",
+        "cor": "#F96DC3",
+        "corSegundaria": "rgba(249, 109, 195,.2)"
+
+    }
+]

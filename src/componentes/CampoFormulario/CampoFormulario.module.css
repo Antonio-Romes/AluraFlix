@@ -1,0 +1,27 @@
+.campo {
+    font-family: var(--fonteSecundaria);
+    font-weight: 600;
+    font-size: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 15px;
+    color: #fff;
+    
+}
+
+.campoInput {
+    padding: 10px;
+    border: 0;
+    border-bottom: 2px solid  #fff; 
+    background-color: rgb(245, 245, 240); 
+    margin: 0;
+    font-size: 1.25rem;
+    font-weight: 600;
+    font-family: var(--fonteSecundaria);
+    outline: 0;
+}
+
+.campoInput:focus {
+    border-color: #fff;
+}

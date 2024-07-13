@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "titulo": "FRAMEWORK Front-End pra entrar no MERCADO - Roadmap de Programação 2024",
+    "descricao": "FRAMEWORK Front-End pra entrar no MERCADO",
+    "imagem": "https://i.ytimg.com/vi/RQV_2tSly3E/hqdefault.jpg",
+    "link": "https://www.youtube.com/embed/RQV_2tSly3E?si=gn8HKNzfkLJSXJ00",
+    "categoria": "FRONT END",
+    "cor": "#6BD1FF"
+  },
+  {
+    "id": 2,
+    "titulo": "A História do Front-End para Iniciantes em Programação",
+    "descricao": "Explorar um pouco os diversos assuntos que são associados com a tal carreira de Front-End no mundo de desenvolvimento Web.",
+    "imagem": "https://i.ytimg.com/vi/VKmPGmFY7H4/hqdefault.jpg",
+    "link": "https://www.youtube.com/embed/VKmPGmFY7H4?si=jPU_xK6OYlzoMzcJ",
+    "categoria": "FRONT END",
+    "cor": "#6BD1FF"
+  },
+  {
+    "id": 3,
+    "titulo": "Sendo VERSÁTIL no Back-End - Roadmap de Programação 2024",
+    "descricao": "Sendo VERSÁTIL no Back-End",
+    "imagem": "https://i.ytimg.com/vi/sgqvzzWTInI/hqdefault.jpg",
+    "link": "https://www.youtube.com/embed/sgqvzzWTInI?si=RW_Yqsi_7h9q6lFl",
+    "categoria": "BACK END",
+    "cor": "#00C86F"
+  },
+  {
+    "id": 4,
+    "titulo": "Rotina DEV. Saiba o que um desenvolvedor back-end faz no seu dia-a-dia",
+    "descricao": "Você tem dúvidas de como é a rotina de um desenvolvedor back-end? Nesse vídeo te explico como costuma ser nossa rotina no dia-a-dia. Assim você não terá mais dúvidas se gostará da profissão e também tirará de letra nas entrevistas para dev.",
+    "imagem": "https://i.ytimg.com/vi/xiPM_2aWtUc/hqdefault.jpg",
+    "link": "https://www.youtube.com/embed/xiPM_2aWtUc?si=V_1hyB9VOefpXLF2",
+    "categoria": "BACK END",
+    "cor": "#00C86F"
+  },
+  {
+    "id": 5,
+    "titulo": "Programação: Feira de inovação e tecnologia",
+    "descricao": "A Feira de Inovação e Tecnologia, além de proporcionar oportunidades de negócios, também tem uma extensa programação de palestras.",
+    "imagem": "https://i.ytimg.com/vi/xhUJAyaqzFM/hqdefault.jpg",
+    "link": "https://www.youtube.com/embed/xhUJAyaqzFM?si=0HKXmJaqJA8iVFFE",
+    "categoria": "INOVAÇÃO",
+    "cor": "#FFBA05"
+  },
+  {
+    "id": 6,
+    "titulo": "Gestão de negócios. O que é?",
+    "descricao": "Gestão de negócios. O que é? Veja em 10 pilares obrigatórios na gestão de negócios.",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bc7VDLolorspZCaB74Cjz5fayekyOMf0YA&s",
+    "link": "https://www.youtube.com/embed/roy-pY7pmwM",
+    "categoria": "GESTÃO",
+    "cor": "#F96DC3"
+  },
+  {
+    "id": 7,
+    "titulo": "Diferentes carreiras em tecnologia",
+    "descricao": "Conheça várias das mais diversas carreiras dentro da área de tecnologia, além de programação, e aproveite também para conhecer a EBAC, que inclusive oferece diversos cursos dessas profissões comentadas no vídeo!",
+    "imagem": "https://i.ytimg.com/vi/3gPZ02Iqr-0/maxresdefault.jpg",
+    "link": "https://www.youtube.com/embed/3gPZ02Iqr-0?si",
+    "categoria": "GESTÃO",
+    "cor": "#F96DC3"
+  }
+]

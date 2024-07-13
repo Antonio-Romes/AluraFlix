@@ -1,0 +1,29 @@
+.listaSuspensa {
+    font-family: var(--fonteSecundaria);
+    font-weight: 600;
+    font-size: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 15px;
+}
+
+.campoInput {
+    padding: 10px;
+    border: 0;
+    border: 2px solid #fff;;
+    border-radius: 10px;
+    background-color: rgb(245, 245, 240);     
+    font-size: 1.25rem;
+    font-weight: 600;
+    font-family: var(--fonteSecundaria);
+    outline: 0;
+}
+
+.opcoes {
+    background-color: #fff;
+}
+
+.campoInput:focus {
+    border-color:  var(--corFonte_secundaria);
+}
